@@ -1,6 +1,6 @@
 # Hi, I'm Thanh Le
 
-Computer Science Student at Ho Chi Minh City University of Technology (HCMUT).
+Computer Science Student at Ho Chi Minh City University of Technology (HCMUT - VNU-HCM).
 
 AI & Software Engineering Enthusiast
 
