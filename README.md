@@ -1,34 +1,20 @@
-# Hi, I'm Thanh Le
+# Thanh Le
+Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
 
-Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Engineering.
-
-### Tech Stack
+Interested in Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Engineering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-### Currently Learning
+Focused on building practical AI applications, exploring NLP, LLMs, and scalable software systems.
 
-* Natural Language Processing (NLP)
-* Large Language Models (LLMs)
-* MLOps
-* System Design
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-tlee\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-tlee\&show_icons=true\&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-tlee\&layout=compact)
 
-### Goals
+---
 
-* Build production-ready AI applications
-* Contribute to open-source projects
-* Become an AI Engineer
-
-> Learn. Build. Improve.
+Computer Science Student • AI Engineer in Progress
