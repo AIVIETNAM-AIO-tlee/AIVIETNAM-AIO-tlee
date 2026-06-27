@@ -21,9 +21,9 @@ Computer Science student passionate about Artificial Intelligence, Machine Learn
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-tlee\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-tlee\&layout=compact)
 
 ### Goals
 
